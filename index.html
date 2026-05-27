@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kakaw — The ledger made lyrical</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    body {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 4rem 2rem 6rem;
+      line-height: 1.7;
+      color: #1a1208;
+      background: #faf6ed;
+      font-size: 18px;
+    }
+    h1, h2, h3 { font-family: 'Cinzel', serif; font-weight: 600; letter-spacing: 0.02em; margin-top: 2.5em; }
+    h1 { font-size: 2.2rem; text-align: center; margin-top: 0; }
+    h2 { font-size: 1.4rem; border-bottom: 1px solid #c4a87a; padding-bottom: 0.3em; }
+    h3 { font-size: 1.15rem; }
+    code { background: #f0e6d2; padding: 0.1em 0.3em; border-radius: 3px; font-size: 0.9em; }
+    pre { background: #f0e6d2; padding: 1em; border-radius: 4px; overflow-x: auto; font-size: 0.85em; }
+    pre code { background: none; padding: 0; }
+    blockquote { border-left: 3px solid #c4a87a; margin-left: 0; padding-left: 1.2em; font-style: italic; color: #4a3a20; }
+    hr { border: none; border-top: 1px solid #c4a87a; margin: 3em 0; }
+    a { color: #8b4513; text-decoration: underline; text-underline-offset: 3px; }
+    a:hover { color: #5a2d0c; }
+    em { font-style: italic; }
+    strong { font-weight: 600; }
+    ul, ol { padding-left: 1.5em; }
+    li { margin-bottom: 0.4em; }
+  </style>
+</head>
+<body>
+  <div id="content">Loading…</div>
+  <script>
+    fetch('README.md')
+      .then(r => r.text())
+      .then(md => { document.getElementById('content').innerHTML = marked.parse(md); });
+  </script>
+</body>
+</html>
