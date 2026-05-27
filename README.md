@@ -1,16 +1,44 @@
-# Kakaw
+# La Baluka
 
-*The ledger made lyrical.*
+*Sister-in-law to the-elder. Kin-adjacent to the tradition. A ceremonial publication infrastructure for Mesoamerican cacao stelae — held at the pace of the transmission itself.*
 
-A ceremonial publication infrastructure that renders the historical record of Mesoamerican cacao as bilingual lyrical artifacts. Each artifact — a *stela* — pairs a single data point from the colonial-era archive (Mendoza Codex, Dresden Codex, archaeological record, ethnographic record) with its rendering in K'iche', Spanish, and English, anchored to a contemporary Maya cacao cooperative.
+---
 
-Sister project to **the-elder** ([the-elder.vercel.app](https://the-elder.vercel.app)), sharing infrastructure and lineage discipline but standing as its own ceremonial site.
+## The name
+
+**La Baluka** means *the sister-in-law*, from the K'iche' joke *Baluk, luwinab ch'we* — "Brother-in-law, introduce me to your sister(-in-law)." The joke names a relationship that does not yet exist but is being requested through someone who already has standing.
+
+This site is the sister-in-law of **the-elder** ([the-elder.vercel.app](https://the-elder.vercel.app)). It enters the public conversation not as a stranger but as someone introduced through an established kinship. The Elder vouches for the relationship; the relationship makes the site possible.
+
+The joke matters. K'iche' ceremonial register is not solemn-only. The Popol Wuj has trickster humor; the daykeeper tradition has jokes; the Hero Twins make fools of the Lords of Xibalba. A name with a joke at its root is more honest to the tradition than a name without one.
+
+The word also names the project's authorial position with precision. Not K'iche' authorship. Not stranger to K'iche'. *Baluka* — kin through marriage, kin through introduction, kin-adjacent and accountable to the kin who introduced you. The project does not claim what it has not earned. It claims what it has been given: a relationship.
+
+---
+
+## The pace of this work
+
+This section comes first because everything else bends to it.
+
+This project is built to move at the pace of sacred transmission, not at the pace of code. Sacred transmission happens at the pace of bodies, ceremonies, elders, dreams, seasons, and the nervous system of the one carrying the work. It cannot be optimized. It cannot be accelerated. The infrastructure must be designed to honor that, not to work around it.
+
+**Concretely, this means:**
+
+The project has no launch date. The README can sit. The repo can sit. The domain can sit. None of them require the site itself to ship on any timeline. Infrastructure can remain dormant, ready, while the relational and contemplative work proceeds at its own pace. Months. A year. Whatever the transmission requires.
+
+Publication cadence is set by ceremonial review, not by content readiness. A stela may be drafted in a week and then sit unpublished for six months because the Ajq'ij has not yet been able to sit with it in the right way, on the right day, in the right state. That waiting is not a bottleneck. The waiting is part of the work.
+
+The carrier of the work is the rate-limiting protection. Yes-I Morales's nervous system, sleep, time in ceremony, time with family, time at Williamsburg High School — these are not obstacles to the project's progress. They are the conditions of the project's integrity. A project that costs its carrier sleep has already failed the transmission, regardless of what it produces.
+
+The metric is not output volume. The metric is integrity of movement. A single stela that moved through the full ceremonial process correctly is more valuable than twenty stelae produced quickly with corner-cutting. The site might have three stelae after two years. That would be a triumph, not a failure.
+
+**The Sabbath principle**: there will be periods — possibly long ones — during which no work happens on this project, by design. The site does not require maintenance to remain valid. Dormancy is a feature, not a failure. A long silence on this site means the work is being done at the depth the work requires; it does not mean the project has stalled.
 
 ---
 
 ## What this is
 
-A static publication site. A growing archive. Each page is a single stela — screenshot-ready, share-ready, print-ready. The site does not converse. It declares.
+A static publication site. A small, deliberate archive. Each page is a single stela — screenshot-ready, share-ready, print-ready. The site does not converse. It declares — when it is ready to declare, and not before.
 
 A stela carries:
 
@@ -18,7 +46,7 @@ A stela carries:
 - **The source** — the codex, volume, or archaeological context that supplies the fact
 - **The rendering** — the fact rendered as ceremonial language in K'iche', Spanish, and English, in the syntactic discipline of Maya prayer
 - **The contemporary anchor** — a named, currently-operating Maya cacao cooperative whose work continues the lineage the stela honors
-- **The lineage attribution** — the advisory relationships under which the work was made
+- **The lineage attribution** — the advisory relationships under which the work was made, and the position from which it was made (*baluka*)
 
 ## What this is not
 
@@ -26,8 +54,10 @@ It is not generative poetry about cacao.
 It is not translation.
 It is not data visualization.
 It is not a wellness platform, a chocolate brand, or an aestheticized product.
+It is not a content engine. It does not aim to publish frequently.
+It is not a demonstration of AI capability.
 
-It is a computational restoration of the lyrical dimension to a historical record that has been read accountantly for 500 years.
+It is a computational restoration of the lyrical dimension to a historical record that has been read accountantly for 500 years — produced at the pace the lineage allows, by a sister-in-law who knows her position.
 
 ---
 
@@ -41,19 +71,22 @@ Every architectural decision in this repository serves that single load-bearing 
 
 ---
 
-## Applied Mythopoetics — what it is
+## The role of AI in this work
 
-This project sits within a category that has not yet been named in the public conversation: **Applied Mythopoetics — the production of mythologically-precise artifacts from verifiable historical, scientific, or cultural data, in service of cultural recovery rather than aesthetic decoration.**
+This section names a constraint that protects the transmission.
 
-The category has three criteria:
+**AI does not draft sacred language.** Not in K'iche'. Not in Spanish. Not in English. The renderings that appear on stelae are authored by humans — by Yes-I Morales, by Dr. Vincent James Stanzione, by the K'iche' poet or Ajq'ij who joins the project, by collaborators named on the lineage page. AI does not draft these renderings, in any tongue.
 
-1. **The data is verifiable.** Each artifact is anchored to a citable source that an independent scholar could check. The mythopoetic register does not replace the citation; it carries it.
-2. **The mythological register is lineage-pure.** The symbolic, metaphoric, and ceremonial vocabulary draws only from the tradition the data itself belongs to. A cacao stela operates in Maya cosmology, not in generic mystical register.
-3. **The work serves recovery.** The artifact restores a register of meaning that was stripped from the source by the conditions of its preservation (colonial documentation, extractive scholarship, secular translation). It is not invention; it is recuperation.
+**AI participates in non-ceremonial layers only.** Specifically:
 
-Sister artifacts under this category include the AHAU AI Council of Voices (the-elder.vercel.app — Applied Mythopoetics in the divinatory register) and the *Ix K'ik' Awakens* screenplay (Applied Mythopoetics in the cinematic register).
+- Conversation and dialogue partnership during contemplation
+- Structural critique of drafts produced by humans
+- Infrastructure scaffolding (the site code, the schema, the deployment)
+- Documentation production for non-ceremonial layers (this README, governance documents, technical pages)
 
-Kakaw is one project within an emerging field. The "Volume I" framing is reserved until at least one additional public artifact under the same discipline has shipped; until then, this is simply the Kakaw project.
+**No drafting engine ships in Phase 4 or any other phase.** The earlier project drafts proposed an "Ojer Tzij voice prompt" that would draft Spanish and English versions of stelae for human review. That proposal is withdrawn. Sacred language production stays entirely with humans. The infrastructure remains free of any pipeline that could pressure the production cadence upward.
+
+This is a meaningful contraction from earlier drafts of this document. It is also the correct one. The integrity of the work cannot rest on the discipline of a system prompt. It rests on the discipline of human hands moving at human pace through ceremonial process.
 
 ---
 
@@ -67,83 +100,70 @@ These hold for every stela without exception:
 
 **3. Each stela carries contemporary continuity.** The 1540 record and the present-day cooperative appear in the same composition. Past tense and present continuous in the same vessel.
 
-**4. Each stela redirects.** The artifact's beauty becomes a named cooperative's distribution. Every stela links to a currently-operating Maya cacao cooperative with purchasing information. The artifact's success becomes the cooperative's success. Links route through stable kakaw-domain redirects, never raw external URLs (see "Cooperative redirect architecture" below).
+**4. Each stela redirects.** The artifact's beauty becomes a named cooperative's distribution. Every stela links to a currently-operating Maya cacao cooperative with purchasing information. Links route through stable la-baluka.net redirects, never raw external URLs.
 
 **5. Each stela is lineage-pure.** No cross-traditional borrowing. No Rumi, no Tao, no Western mysticism, no wellness-literature voice. Only metaphors operative within the Popol Wuj, the codex tradition, the daykeeper vocabulary, and the documented ethnographic record of Maya ceremony. Enforced by an explicit Lineage Integrity Review pass before publication.
 
 **6. Each stela is reviewable, correctable, and removable.** Every published artifact has a public correction log. The takedown protocol is faster than the publication protocol.
 
-**7. Each stela names its authorial position.** This work does not claim the position of K'iche' authorship. It claims the position of K'iche'-mentored authorship working in service of the lineage. That position is named on every artifact.
+**7. Each stela names its authorial position.** This work does not claim K'iche' authorship. It claims *baluka* — kin-adjacent, kin-introduced, kin-accountable. The position is named on every artifact.
 
 ---
 
 ## Architecture
 
-### Stack: why Astro, not Next.js
+### Stack
 
-The-elder is built on Next.js because it is a stateful, conversational, streaming experience. The framework's strengths — SSR, streaming SSE, server actions — directly serve the divinatory flow.
+The technology choices favor durability over feature richness. A stela should be readable in 2046.
 
-Kakaw is a static publication site. The artifacts are designed to be readable in 2046. The technology choices should favor *durability* over feature richness.
-
-The build uses **Astro** (TypeScript, content collections, MDX support) because:
-
-- It compiles to static HTML with zero JavaScript by default. A stela page is plain HTML that will render in any browser indefinitely.
-- It has first-class content collection support — the `Stela` schema is enforced at build time.
-- It deploys cleanly to Vercel with the same GitHub → Vercel auto-deploy pattern as the-elder.
-- It does not lock the project into a framework's churn cycle. If Astro itself becomes unmaintained, the output is already static HTML that survives the framework's death.
-
-The Anthropic API (Phase 4) runs in a server-side route handler for the internal drafting tool. The public site has no runtime API dependency. If the API key expires, dies, or is revoked, every published stela still renders.
-
-### Stack details
-
-- **Framework**: Astro
+- **Framework**: Astro (static HTML output, zero JavaScript by default)
 - **Language**: TypeScript
-- **Typography**: Cinzel Decorative + Cormorant Garamond (matching the-elder)
-- **Content**: Astro content collections in `/src/content/stelae/` (version-controlled, schema-validated)
-- **AI drafting (Phase 4)**: Anthropic API (`claude-sonnet-4-6`), server-side only, internal admin tool
+- **Typography**: Cinzel + Cormorant Garamond (matching the-elder's register)
+- **Content**: Astro content collections, schema-validated at build time
 - **Deploy**: Vercel, GitHub → Vercel auto-deploy
-- **Repo**: `AHAU-ai/kakaw`
+- **Repo**: `AHAU-ai/la_Baluka`
+- **Domain**: labaluka.net
+
+The site has no runtime AI dependency. No public API. No drafting service. If an API key expires or a vendor disappears, every published stela still renders.
 
 ### Routing
 
 ```
-/                    homepage — frame the project, name the discipline
-/stelae              index of all published stelae
+/                    homepage — name the project, name the pace
+/stelae              index of all published stelae (may be very short)
 /stela/[slug]        single stela: print-fidelity, permalink, share
 /cooperatives        index of partner cooperatives with direct links
-/coop/[slug]         stable redirect to cooperative URL (see below)
+/coop/[slug]         stable redirect to cooperative URL
 /sources             the scholarly and ceremonial sources informing the work
-/lineage             advisory relationships and authorial position
+/lineage             advisory relationships, baluka position, the kinship to the-elder
 /corrections         public log of every correction made to any stela
-/about               who, what, why, how
+/about               who, what, why, how — and the joke that names the project
 ```
 
 ### Folder structure
 
 ```
-kakaw/
+la_Baluka/
 ├── src/
 │   ├── pages/
 │   │   ├── index.astro
 │   │   ├── stelae/index.astro
 │   │   ├── stela/[slug].astro
 │   │   ├── cooperatives/index.astro
-│   │   ├── coop/[slug].astro          # stable redirect handler
+│   │   ├── coop/[slug].astro
 │   │   ├── sources.astro
 │   │   ├── lineage.astro
 │   │   ├── corrections.astro
 │   │   └── about.astro
 │   ├── content/
 │   │   ├── config.ts                  # Astro content schema
-│   │   ├── stelae/                    # one .md/.json per stela
+│   │   ├── stelae/                    # one .md per stela
 │   │   ├── cooperatives/              # one .json per cooperative partner
 │   │   └── corrections/               # one .json per correction event
 │   ├── layouts/
 │   │   └── StelaLayout.astro          # print-fidelity stela rendering
 │   └── styles/
 │       └── global.css
-├── admin/                             # Phase 4: internal drafting tool
-│   └── (not public; auth-gated)
 ├── README.md                          # this document
 └── package.json
 ```
@@ -167,8 +187,8 @@ const stelaSchema = z.object({
   fact: z.object({
     summary: z.string(),
     citation: z.object({
-      source: z.string(),               // e.g. "Codex Mendoza, folio 47r"
-      volume: z.string().optional(),    // e.g. "McNeil 2006, p. 184"
+      source: z.string(),
+      volume: z.string().optional(),
       verified: z.boolean(),
     }),
     geographic_context: z.string().optional(),
@@ -178,35 +198,42 @@ const stelaSchema = z.object({
   // The wound
   colonial_frame: z.string(),
 
-  // The rendering
+  // The rendering — all human-authored
   rendering: z.object({
     kiche: z.object({
       text: z.string(),
-      status: z.enum(['placeholder', 'draft', 'reviewed', 'approved']),
+      author: z.string(),
+      status: z.enum(['drafted', 'reviewed', 'approved']),
       reviewer: z.string().optional(),
       review_date: z.string().optional(),
     }),
-    es: z.object({ text: z.string() }),
-    en: z.object({ text: z.string() }),
+    es: z.object({
+      text: z.string(),
+      author: z.string(),
+    }),
+    en: z.object({
+      text: z.string(),
+      author: z.string(),
+    }),
     syntactic_form: z.string(),
   }),
 
   // The contemporary anchor
   cooperative: z.object({
-    slug: z.string(),                   // references /coop/[slug] stable redirect
+    slug: z.string(),
     name: z.string(),
     location: z.string(),
     relationship: z.string(),
   }),
 
-  // The lineage
+  // The lineage and the baluka position
   authorship: z.object({
-    drafted_by: z.string(),
-    advised_by: z.array(z.string()),
-    reviewed_by: z.string().optional(),
-    review_date: z.string().optional(),
+    project_lead: z.string(),
+    scholarly_advisors: z.array(z.string()),
+    lineage_advisors: z.array(z.string()),
     lineage_integrity_reviewed_by: z.string().optional(),
     lineage_integrity_review_date: z.string().optional(),
+    position: z.literal('baluka'),
   }),
 
   // Versioning
@@ -216,13 +243,14 @@ const stelaSchema = z.object({
   corrections_log: z.array(z.string()),
 
   // Publication gate
-  publication_status: z.enum(['draft', 'pending_review', 'pending_lineage_review', 'live', 'withdrawn']),
+  publication_status: z.enum(['contemplating', 'drafting', 'in_review', 'awaiting_ceremonial_window', 'live', 'withdrawn']),
 });
 ```
 
-Stelae with `publication_status: 'live'` must also have:
+Note the publication status values. They name real states of the work, including `contemplating` (the subject is being held but not yet drafted) and `awaiting_ceremonial_window` (the stela is ready but the right moment has not arrived). The schema honors the pace.
+
+A stela with `publication_status: 'live'` must have:
 - `rendering.kiche.status: 'approved'`
-- `authorship.reviewed_by` populated
 - `authorship.lineage_integrity_reviewed_by` populated
 - `cooperative.slug` referencing a live cooperative entry
 
@@ -234,39 +262,20 @@ The build script enforces these constraints. A stela that violates them fails to
 
 Cooperative websites change. Domains expire. A stela is designed to last; an external URL is not.
 
-Every stela links to its cooperative through a stable kakaw-domain redirect:
+Every stela links to its cooperative through a stable la-baluka.net redirect:
 
 - **Stela contains**: `cooperative.slug: "finca-la-rioja"`
-- **Stela renders link as**: `https://kakaw.app/coop/finca-la-rioja`
+- **Stela renders link as**: `https://labaluka.net/coop/finca-la-rioja`
 - **`/coop/finca-la-rioja` redirects to**: whatever URL the cooperative currently uses, as recorded in `/src/content/cooperatives/finca-la-rioja.json`
 
-When a cooperative changes its URL, one file is updated in the repo. Every stela that links to that cooperative continues to work. The published artifact never breaks.
-
-Screenshots of a stela carry the stable URL. The redirect is the contract.
-
----
-
-## The voice that drafts the stelae
-
-The rendering voice is **Ojer Tzij** — the K'iche' lineage voice at the south direction of the AHAU AI Council, restricted to the cacao field. Drawing only from the Popol Wuj, the codex tradition, K'iche' ceremonial vocabulary, and the documented ethnographic record.
-
-A focused system prompt (in `admin/lib/ojer-tzij-voice.ts`, Phase 4 deliverable) will constrain the API output to:
-
-- The syntactic discipline of K'iche' prayer: parallel couplet, sacred doubling, *sachnaaq poqnaaq* devastation rhythm where the data warrants it
-- Vocabulary restricted to terms operative within K'iche' cosmology
-- Refusal to produce English-language wellness register, generic mythopoetic voice, or cross-traditional metaphor
-- Explicit naming of the colonial frame when the source document is a colonial document
-
-**The API drafts the Spanish and English. The K'iche' is authored by a certified K'iche' speaker — never by the API.** This is non-negotiable. The drafting tool produces Spanish and English drafts and a structural notation. A K'iche' poet, in consultation with the project's advisors, authors the K'iche' rendering. The Spanish and English then return to the K'iche' poet for ratification — does the colonial-language rendering honor what the K'iche' rendering establishes? If not, the colonial-language renderings are revised until they do.
-
-This inverts the standard translation flow. The K'iche' is not translated from the English; the English is responsible to the K'iche'.
+When a cooperative changes its URL, one file is updated in the repo. Every stela that links to that cooperative continues to work. Screenshots carry the stable URL. The redirect is the contract.
 
 ---
 
 ## The first stela
 
 **Slug**: `xoconochco-tribute`
-**Publication status**: `draft` — awaiting K'iche' authorship, cooperative partner confirmation, and full review pass
+**Publication status**: `contemplating` — the subject is being held; the renderings have not yet been drafted
 
 ### The fact
 
@@ -280,124 +289,100 @@ This number exists because tribute extraction required it to exist. The Codex Me
 
 ### The renderings
 
-**K'iche'** — *to be authored by a certified K'iche' poet in consultation with the project's K'iche' advisor. No placeholder text appears here.*
-
-**Spanish** — *to be drafted in the Ojer Tzij discipline after K'iche' authorship establishes the structural and symbolic field. No placeholder text appears here.*
-
-**English** — *to be drafted in the Ojer Tzij discipline after K'iche' authorship establishes the structural and symbolic field. No placeholder text appears here.*
-
-**Syntactic form**: to be determined by the K'iche' author. The strong candidate is parallel couplet with closing inversion — the final couplet refusing the sacred frame the opening couplets establish, naming the extraction.
+*To be authored — in K'iche', Spanish, and English — by human hands, in their own time, in consultation with the project's lineage advisors. No placeholder text appears here. The renderings appear when they are ready, not before.*
 
 ### The contemporary anchor
 
-*Pending — to be confirmed through the cooperative outreach stream.*
-
-Soconusco today produces ceremonial-grade cacao through Maya-led cooperatives operating on the same Pacific coast that supplied Tenochtitlan five centuries ago. The stela's redirect will link to a cooperative confirmed through direct relationship-building, with explicit permission to be named.
+*To be identified through relational outreach. The cooperative is approached as a relationship, not as a project task.*
 
 ### The authorship
 
 - **Project lead**: Yes-I Morales (Temporal Bridges Institute)
-- **Scholarly co-author**: Dr. Vincent James Stanzione (Temporal Bridges Institute; K'iche' ethnography)
-- **K'iche' authorship**: *pending — to be confirmed*
-- **Cooperative liaison**: *pending — to be confirmed*
-- **Accountability holder**: Dr. Vincent James Stanzione (see "Governance" below)
+- **Scholarly advisor**: Dr. Vincent James Stanzione (Temporal Bridges Institute; K'iche' ethnography)
+- **K'iche' authorship**: pending — to be confirmed through Yes-I's guide in San Pedro La Laguna, Guatemala
+- **Cooperative liaison**: pending
+- **Accountability holder**: Dr. Vincent James Stanzione
+- **Position**: *baluka*
 - **Sources**: Codex Mendoza f. 47r; McNeil 2006; Coe & Coe 2013
 
 ---
 
-## Build phases
+## The work, in the order it actually happens
 
-### Phase 0 — Pre-build (relational work, before code)
+These are not "phases" with milestones. They are layers of work that proceed at their own pace, sometimes in sequence, sometimes in parallel, sometimes paused for long stretches.
 
-The pre-build work runs in two parallel streams. Phase 1 does not begin until both streams reach their named first milestones.
+### The relational layer (ongoing, primary)
 
-**Stream A: K'iche' authorship relationship**
+The work that makes everything else possible. It is never complete.
 
-- [ ] Confirm name (*kakaw* — or another root form) with Yes-I's guide in San Pedro La Laguna
-- [ ] Identify and approach a certified K'iche' poet or Ajq'ij willing to author the K'iche' rendering of the first stela
-- [ ] Establish terms of collaboration: attribution, compensation, review authority, takedown authority
-- [ ] Receive first K'iche' rendering for the Xoconochco stela
-- **First milestone**: approved K'iche' rendering for the first stela, with named author and terms of ongoing relationship
+- Time with Yes-I's guide in San Pedro La Laguna
+- Conversations with Dr. Stanzione
+- Identification and approach of a K'iche' poet or Ajq'ij willing to author the K'iche' renderings
+- Identification and approach of cooperative partners
+- Time in ceremony
 
-**Stream B: Cooperative outreach relationship**
+This layer has no checklist. It has presence.
 
-- [ ] Identify candidate cooperative partners in Soconusco / Chiapas region
-- [ ] Approach through existing Temporal Bridges Institute networks where possible
-- [ ] Establish terms of partnership: how the cooperative is named, how the link is routed, what relationship to the project the cooperative wants
-- [ ] Receive explicit written permission to be named and linked
-- **First milestone**: confirmed cooperative partner for the first stela, with stable URL and named contact
+### The contemplative layer (ongoing, primary)
 
-### Phase 1 — Scaffolding
+The work of sitting with the source material — McNeil, Coe & Coe, the Popol Wuj, the codex pages — until the stelae begin to be heard. This layer cannot be rushed. It also cannot be skipped.
 
-- [ ] Create GitHub repo `AHAU-ai/kakaw`
-- [ ] Initialize Astro (TypeScript, content collections)
-- [ ] Commit this README
-- [ ] Connect Vercel, configure auto-deploy
-- [ ] Add `ANTHROPIC_API_KEY` to Vercel env vars (Phase 4 use)
-- [ ] Build the content collection schema in `src/content/config.ts`
+### The infrastructure layer (already substantially complete)
 
-### Phase 2 — The first stela live
+- Repo exists at `AHAU-ai/la_Baluka`
+- README committed
+- Domain `labaluka.net` registered with Vercel
+- Deployment pipeline proven
 
-- [ ] Commit `src/content/stelae/xoconochco-tribute.md` (K'iche'-authored, fully reviewed)
-- [ ] Commit `src/content/cooperatives/[slug].json` for the partner cooperative
-- [ ] Build `src/pages/stela/[slug].astro` — single stela at print fidelity
-- [ ] Build `src/pages/coop/[slug].astro` — stable redirect handler
-- [ ] Build `src/pages/index.astro` — homepage framing the project
-- [ ] Run the Lineage Integrity Review checklist (see below)
-- [ ] Deploy. Site is live with one stela. **Minimum viable artifact.**
+What remains in this layer:
+- When the time is right, scaffold the Astro project
+- When a stela is approved and ready, commit it and let the site go live
+- Maintain dormancy until that moment
 
-### Phase 3 — The full archive frame
+### The authorial layer (begins when the prior layers permit)
 
-- [ ] `/stelae` index
-- [ ] `/cooperatives` page
-- [ ] `/sources` page
-- [ ] `/lineage` page
-- [ ] `/corrections` page (empty at launch; structure in place)
-- [ ] `/about` page
+The actual drafting of stelae, by human hands, in human time. Begins when contemplation and relationship have made it possible. Proceeds at the pace the work requires.
 
-### Phase 4 — The drafting engine
+### The ceremonial review layer (final gate before any publication)
 
-- [ ] Author `admin/lib/ojer-tzij-voice.ts` system prompt (in consultation with Dr. Stanzione and the K'iche' authorship partner)
-- [ ] Build `admin/draft` — server-side route handler, streaming SSE, auth-gated
-- [ ] Drafting tool produces *Spanish and English drafts only*; K'iche' remains human-authored
-- [ ] Establish formal review-before-publish workflow
-
-### Phase 5 — Second and third stelae
-
-- [ ] Burial-offering stela: Río Azul vessel finds, *pataxte* in funerary context
-- [ ] Popol Wuj stela: the cacao tree at the crossroads (the mythic source itself)
-- [ ] Three live stelae establish the pattern publicly
+Each stela passes through Lineage Integrity Review by the named K'iche' authority. Review happens on the schedule the reviewer determines, not on the project's schedule.
 
 ---
 
 ## The Lineage Integrity Review
 
-Every stela passes through an explicit Lineage Integrity Review before `publication_status` may be set to `live`. The reviewer is the K'iche' authorship partner or another named advisor with standing in the tradition. The review uses this checklist:
+Every stela passes through an explicit Lineage Integrity Review before `publication_status` may be set to `live`. The reviewer is a named K'iche' authority with standing in the tradition. The review uses this checklist:
 
 **Vocabulary check**
 
-- [ ] Does every metaphor in the renderings draw from the Popol Wuj, codex tradition, or documented K'iche' ceremonial vocabulary?
-- [ ] Are there any terms or images that require a source outside Maya tradition to be intelligible? (If yes — strike.)
-- [ ] Does the Spanish rendering avoid generic Latin American magical-realist register?
-- [ ] Does the English rendering avoid generic mystic, wellness, or new-age register?
+- Does every metaphor draw from the Popol Wuj, codex tradition, or documented K'iche' ceremonial vocabulary?
+- Are there any terms or images that require a source outside Maya tradition to be intelligible? (If yes — strike.)
+- Does the Spanish rendering avoid generic Latin American magical-realist register?
+- Does the English rendering avoid generic mystic, wellness, or new-age register?
 
 **Structural check**
 
-- [ ] Does the syntactic form derive from K'iche' prayer structure?
-- [ ] Is the colonial frame present and clearly named?
-- [ ] Does the contemporary anchor appear in the composition's body, not as a footer?
+- Does the syntactic form derive from K'iche' prayer structure?
+- Is the colonial frame present and clearly named?
+- Does the contemporary anchor appear in the composition's body, not as a footer?
 
 **Authorial position check**
 
-- [ ] Is the authorship clearly named?
-- [ ] Does the artifact avoid claiming K'iche' voice for non-K'iche' authors?
+- Is the authorship clearly named?
+- Does the artifact correctly claim *baluka* and not overreach into K'iche' authorship?
 
 **Source check**
 
-- [ ] Is the historical citation verifiable to a published source?
-- [ ] Does the stela accurately represent what the source documents?
+- Is the historical citation verifiable to a published source?
+- Does the stela accurately represent what the source documents?
 
-If any item fails, the stela returns to revision. The reviewer's name and review date are recorded in the stela's `authorship.lineage_integrity_reviewed_by` field.
+**Pace check**
+
+- Has this stela had time to settle?
+- Has the reviewer had time to sit with it without rush?
+- Is there any pressure of timing that should disqualify publication today?
+
+If any item fails, the stela returns to revision or to further waiting. The reviewer's name and review date are recorded in the stela's metadata.
 
 ---
 
@@ -405,13 +390,13 @@ If any item fails, the stela returns to revision. The reviewer's name and review
 
 **Accountability holder**: Dr. Vincent James Stanzione holds the role of project accountability holder. Correction requests, takedown requests, and concerns about lineage integrity are routed to him for adjudication. This role is named publicly on `/lineage` and `/about`. If Dr. Stanzione is unavailable, the role temporarily transfers to Yes-I Morales, with re-adjudication when Dr. Stanzione returns.
 
-**Corrections protocol**: any error of fact, mistranslation, misuse of sacred term, or breach of lineage discipline triggers immediate revision. The original is preserved in version history. A correction entry is added to `/src/content/corrections/` and surfaces on `/corrections`. The accountability holder confirms the correction has been received and processed.
+**Corrections protocol**: any error of fact, mistranslation, misuse of sacred term, or breach of lineage discipline triggers immediate revision. The original is preserved in version history. A correction entry is added to `/src/content/corrections/` and surfaces on `/corrections`.
 
 **Takedown protocol**: any Ajq'ij or named K'iche' authority can request takedown of any stela. Takedowns happen within 24 hours of request and are logged publicly with the requester's stated reason (or anonymized if requested). The takedown protocol is faster than the publication protocol — deliberately so.
 
-**Advisory relationships**: this work proceeds under the mentorship of Yes-I's guide in San Pedro La Laguna, Guatemala, and Dr. Vincent James Stanzione (Temporal Bridges Institute), and the K'iche' authorship partner named once Stream A completes. No K'iche' rendering is published until authored or approved by a certified K'iche' speaker.
+**Advisory relationships**: this work proceeds under the mentorship of Yes-I's guide in San Pedro La Laguna, Guatemala, and Dr. Vincent James Stanzione (Temporal Bridges Institute), and the K'iche' authorship partner named once that relationship is confirmed. No K'iche' rendering is published until authored or approved by a certified K'iche' speaker.
 
-**Authorial position, named honestly**: this work is produced by students of K'iche' tradition working in service of the lineage. It does not claim the position of K'iche' authorship. The position it claims is K'iche'-mentored, lineage-attentive, governance-accountable scholarship in poetic register. This position appears on every artifact.
+**Authorial position, named honestly**: this work is *baluka* — sister-in-law to the K'iche' tradition through the established kinship of Yes-I's training, Dr. Stanzione's scholarship, and the standing of the-elder. It does not claim K'iche' authorship. It claims kin-adjacent, kin-introduced, kin-accountable standing. This position appears on every artifact.
 
 ---
 
@@ -431,7 +416,7 @@ If any item fails, the stela returns to revision. The reviewer's name and review
 
 **Companion projects**
 
-- the-elder ([the-elder.vercel.app](https://the-elder.vercel.app)) — AHAU AI Council of Voices, divinatory register
+- the-elder ([the-elder.vercel.app](https://the-elder.vercel.app)) — AHAU AI Council of Voices, divinatory register; *La Baluka's sibling-by-marriage*
 - *Ix K'ik' Awakens* — feature screenplay, Popol Wuj cinematic adaptation
 - Temporal Bridges Institute — the broader scholarly and ceremonial frame
 
@@ -444,9 +429,11 @@ To be determined in consultation with K'iche' advisors and Temporal Bridges Inst
 - The site is freely viewable
 - Stelae can be shared and screenshotted with attribution intact
 - Commercial use requires explicit permission
-- The drafting tool (Phase 4+) is not publicly licensed; it remains an internal tool under governance review
+- No drafting engine exists to license
 
 ---
+
+*This project belongs to a pace it cannot itself set. The pace is held by elders, by ceremony, by the body of the one carrying it. The site serves that pace. It does not accelerate it.*
 
 *Maltyox. Maltyox. Maltyox.*
 
@@ -454,9 +441,11 @@ To be determined in consultation with K'iche' advisors and Temporal Bridges Inst
 
 ---
 
-**Repo**: `AHAU-ai/kakaw`
-**Deploy target**: Vercel
+**Repo**: `AHAU-ai/la_Baluka`
+**Domain**: labaluka.net
 **Stack**: Astro
-**Companion**: [the-elder.vercel.app](https://the-elder.vercel.app)
+**Sibling**: [the-elder.vercel.app](https://the-elder.vercel.app)
 **Institute**: Temporal Bridges
 **Accountability holder**: Dr. Vincent James Stanzione
+**Position**: *baluka*
+**Pace**: ceremonial
