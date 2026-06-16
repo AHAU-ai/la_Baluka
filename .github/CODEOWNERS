@@ -15,31 +15,31 @@
 # ─────────────────────────────────────────────────────────────────────────
 
 # The canon: faithful script + transcendental application + the in-file seal.
-/popol-wuj-the-descent.ts        @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/popol-wuj-wuqub-kakix.ts       @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/popol-wuj-making-of-humans.ts  @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
+/popol-wuj-the-descent.ts        @AHAU-ai/lineage-review @AHAU-AI
+/popol-wuj-wuqub-kakix.ts       @AHAU-ai/lineage-review @AHAU-AI
+/popol-wuj-making-of-humans.ts  @AHAU-ai/lineage-review @AHAU-AI
 
 # The external integrity record (aggregate seal + per-beat manifest).
-/canon.seal                      @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
+/canon.seal                      @AHAU-ai/lineage-review @AHAU-AI
 
 # The verifying + re-sealing code. Tampering here is how a witness gets defeated.
-/scripts/                        @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
+/scripts/                        @AHAU-ai/lineage-review @AHAU-AI
 
 # The gate's own configuration must not be weakened without review.
 /.github/                        @AHAU-ai/lineage-review
 
 # Publication-integrity artifacts (append-only ledger, external seal, signing key).
-/canon.seal                      @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/canon.ledger.json               @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/canon.pubkey                    @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/canon.sig                       @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/SHA256SUMS                      @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/dist/                           @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
+/canon.seal                      @AHAU-ai/lineage-review @AHAU-AI
+/canon.ledger.json               @AHAU-ai/lineage-review @AHAU-AI
+/canon.pubkey                    @AHAU-ai/lineage-review @AHAU-AI
+/canon.sig                       @AHAU-ai/lineage-review @AHAU-AI
+/SHA256SUMS                      @AHAU-ai/lineage-review @AHAU-AI
+/dist/                           @AHAU-ai/lineage-review @AHAU-AI
 
 # Blue-team additions — data, the one code surface, and the publication artifacts.
-/canon/                          @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/lib/                            @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/canon.manifest.json             @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/canon.pubkeys.json              @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/canon.sigs/                     @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
-/CERTIFIES.md                    @AHAU-ai/lineage-review @REPLACE-with-stanzione-handle
+/canon/                          @AHAU-ai/lineage-review @AHAU-AI
+/lib/                            @AHAU-ai/lineage-review @AHAU-AI
+/canon.manifest.json             @AHAU-ai/lineage-review @AHAU-AI
+/canon.pubkeys.json              @AHAU-ai/lineage-review @AHAU-AI
+/canon.sigs/                     @AHAU-ai/lineage-review @AHAU-AI
+/CERTIFIES.md                    @AHAU-ai/lineage-review @AHAU-AI
