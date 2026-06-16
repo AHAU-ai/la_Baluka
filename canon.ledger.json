@@ -1,0 +1,65 @@
+[
+  {
+    "seq": 0,
+    "ts": "2026-06-14T15:24:51.542Z",
+    "corpusRoot": "90b4f7c63f7a26554672fc5bc1f30949eb004657754a829248b2914b2104fb2d",
+    "arcs": {
+      "popol-wuj-descent/1.0.0": {
+        "seal": "ac9edb35f8953cbbc17d544e3a130ef94e1b02fcf9fa2dd65817e296bcbcd0db",
+        "status": "live"
+      },
+      "popol-wuj-wuqub-kakix/1.0.0": {
+        "seal": "73bc0631fda76a232007de8eb76f00596d54df468a8c8c1f834ee9a1f092e322",
+        "status": "live"
+      },
+      "popol-wuj-making-of-humans/1.0.0": {
+        "seal": "4b3c7e5636471ba13aee22a351a3444527d81c25276c1ed143f84225a03808cb",
+        "status": "live"
+      }
+    },
+    "prev": "GENESIS",
+    "hash": "6c21d3a8f50cf26b732782c6308c2f856796774f7f6283656ab5a6d6bf341462"
+  },
+  {
+    "seq": 1,
+    "ts": "2026-06-15T23:49:03.898Z",
+    "corpusRoot": "a58ea6e4af208c7866bac4f696f17cf17c412cae816868c92df895d7f3b0aa96",
+    "arcs": {
+      "popol-wuj-descent/1.0.0": {
+        "seal": "71664a3e822d0be152c2c505395cc87bdf004a81d2650a8edd96bcece2c079a5",
+        "status": "review"
+      },
+      "popol-wuj-wuqub-kakix/1.0.0": {
+        "seal": "df7cef5d8ca3dc93448305641f1cf24b6b21d991e9102a9af1a2acaed4a76258",
+        "status": "review"
+      },
+      "popol-wuj-making-of-humans/1.0.0": {
+        "seal": "96416dce751cc8414eb4c34502278ac097083fcb7532b868db40517d89df3068",
+        "status": "review"
+      }
+    },
+    "prev": "6c21d3a8f50cf26b732782c6308c2f856796774f7f6283656ab5a6d6bf341462",
+    "hash": "bf6bdb1a1c109f5da251d28958cf9171955d8af14d0679205fd7b3bd6c1fb3f5"
+  },
+  {
+    "seq": 2,
+    "ts": "2026-06-16T00:25:19.810Z",
+    "corpusRoot": "0380da9139313889654584f2d5d4ed39d13c7ad2577af0724e1a1f01e1054b32",
+    "arcs": {
+      "popol-wuj-descent/1.0.0": {
+        "seal": "d8774eed9d8bdf3f926f468d4cde190869d184a7a8f4a7b51339d1b9ed9032ef",
+        "status": "review"
+      },
+      "popol-wuj-wuqub-kakix/1.0.0": {
+        "seal": "b5cdb2c75351bf28f10c9cfd9b8fd154fb32b680777e04ae7bab44b2603ed140",
+        "status": "review"
+      },
+      "popol-wuj-making-of-humans/1.0.0": {
+        "seal": "f713ceaab2b2ea6364cf711b6b99c59376e920ed3129255efdaf3500e266857e",
+        "status": "review"
+      }
+    },
+    "prev": "bf6bdb1a1c109f5da251d28958cf9171955d8af14d0679205fd7b3bd6c1fb3f5",
+    "hash": "85bac95fb548966f28039fd5387292b909d55828364127972907e14c72e40ad8"
+  }
+]

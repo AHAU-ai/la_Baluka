@@ -1,0 +1,103 @@
+{
+  "algo": "sha256",
+  "corpusRoot": "0380da9139313889654584f2d5d4ed39d13c7ad2577af0724e1a1f01e1054b32",
+  "generatedAt": "2026-06-16T00:23:40.634Z",
+  "arcs": {
+    "popol-wuj-descent/1.0.0": {
+      "algo": "sha256",
+      "corpusVersion": "popol-wuj-descent/1.0.0",
+      "contractVersion": "katok-pa-tzij/2.0.0",
+      "field": "K'iche'",
+      "beats": 25,
+      "scriptRoot": "4b6e388d72a6a1d4133f5f22dfb7f1ba63ad14ad0acdc667496e9b8731f205c9",
+      "applicationRoot": "0f23fbc036dbcaaeed1422874480d78cb814bf6c41059dde1f6d720c3a95bbe7",
+      "provenanceRoot": "e9ebfe19e93acbede77ebd33ce44db50c3fb6c35ec8ba937bc8ccbf172e32eca",
+      "seal": "d8774eed9d8bdf3f926f468d4cde190869d184a7a8f4a7b51339d1b9ed9032ef",
+      "governance": {
+        "status": "review",
+        "attestation": {
+          "attestor": {
+            "name": "PENDING: named K'iche' attestor",
+            "role": "PENDING"
+          },
+          "basis": "K'iche' Maya ceremonial lineage",
+          "scope": "faithfulness of the transmission (script) layer to the Popol Wuj",
+          "date": "PENDING"
+        },
+        "lineageReview": {
+          "reviewer": {
+            "name": "Dr. Vincent James Stanzione",
+            "role": "lineage accountability holder"
+          },
+          "status": "complete",
+          "date": "2026"
+        },
+        "cooperativeLink": "https://labaluka.net"
+      }
+    },
+    "popol-wuj-wuqub-kakix/1.0.0": {
+      "algo": "sha256",
+      "corpusVersion": "popol-wuj-wuqub-kakix/1.0.0",
+      "contractVersion": "katok-pa-tzij/2.0.0",
+      "field": "K'iche'",
+      "beats": 15,
+      "scriptRoot": "38ba2e944d4602853a9fb941c70f2fcfa7548ccb5d7fa671b44a041e01a9d35f",
+      "applicationRoot": "50f366be51ba0951c0a363c28e8c9fcc580f495e90fa0834c518e0ab013e87c1",
+      "provenanceRoot": "270ce6726638ca34392c5f7fcc2e9db9d222653dda127611e7af345509d46c80",
+      "seal": "b5cdb2c75351bf28f10c9cfd9b8fd154fb32b680777e04ae7bab44b2603ed140",
+      "governance": {
+        "status": "review",
+        "attestation": {
+          "attestor": {
+            "name": "PENDING: named K'iche' attestor",
+            "role": "PENDING"
+          },
+          "basis": "K'iche' Maya ceremonial lineage",
+          "scope": "faithfulness of the transmission (script) layer to the Popol Wuj",
+          "date": "PENDING"
+        },
+        "lineageReview": {
+          "reviewer": {
+            "name": "Dr. Vincent James Stanzione",
+            "role": "lineage accountability holder"
+          },
+          "status": "complete",
+          "date": "2026"
+        },
+        "cooperativeLink": "https://labaluka.net"
+      }
+    },
+    "popol-wuj-making-of-humans/1.0.0": {
+      "algo": "sha256",
+      "corpusVersion": "popol-wuj-making-of-humans/1.0.0",
+      "contractVersion": "katok-pa-tzij/2.0.0",
+      "field": "K'iche'",
+      "beats": 15,
+      "scriptRoot": "ebab6960039a2c1e4b441ca29ecf08e395f18f6a19de1e1d38ed4db0955a754b",
+      "applicationRoot": "df1ffa0c0c49745e0d79de9f82c5faee0c5abdaf110c1f39ce735103fb86612f",
+      "provenanceRoot": "270ce6726638ca34392c5f7fcc2e9db9d222653dda127611e7af345509d46c80",
+      "seal": "f713ceaab2b2ea6364cf711b6b99c59376e920ed3129255efdaf3500e266857e",
+      "governance": {
+        "status": "review",
+        "attestation": {
+          "attestor": {
+            "name": "PENDING: named K'iche' attestor",
+            "role": "PENDING"
+          },
+          "basis": "K'iche' Maya ceremonial lineage",
+          "scope": "faithfulness of the transmission (script) layer to the Popol Wuj",
+          "date": "PENDING"
+        },
+        "lineageReview": {
+          "reviewer": {
+            "name": "Dr. Vincent James Stanzione",
+            "role": "lineage accountability holder"
+          },
+          "status": "complete",
+          "date": "2026"
+        },
+        "cooperativeLink": "https://labaluka.net"
+      }
+    }
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "provenance": {
+    "corpusVersion": "popol-wuj-descent/1.0.0",
+    "contractVersion": "katok-pa-tzij/2.0.0",
+    "field": "K'iche'",
+    "sealAlgo": "sha256",
+    "sealedAt": "2026-06-13",
+    "governance": {
+      "status": "review",
+      "attestation": {
+        "attestor": {
+          "name": "PENDING: named K'iche' attestor",
+          "role": "PENDING"
+        },
+        "basis": "K'iche' Maya ceremonial lineage",
+        "scope": "faithfulness of the transmission (script) layer to the Popol Wuj",
+        "date": "PENDING"
+      },
+      "lineageReview": {
+        "reviewer": {
+          "name": "Dr. Vincent James Stanzione",
+          "role": "lineage accountability holder"
+        },
+        "status": "complete",
+        "date": "2026"
+      },
+      "cooperativeLink": "https://labaluka.net"
+    }
+  },
+  "beats": [
+    {
+      "n": 1,
+      "phase": "THE SUMMONS",
+      "title": "The noise above the underworld",
+      "script": "Jun Junajpu and Wuqub Junajpu play ball on the road above Xibalba. The Lords of Death, Jun Kame and Wuqub Kame, are disturbed by the thudding overhead and send their owl-messengers to summon the players down.",
+      "application": "The powers of death are roused by vitality, not by weakness. It is your aliveness \u2014 your play, your noise above the dark \u2014 that draws the summons downward. To be called by Xibalba is not a sign you went wrong; it is a sign you were heard.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 2,
+      "phase": "THE SUMMONS",
+      "title": "The fathers descend unready",
+      "script": "The fathers go down without knowledge. At the crossroads they are deceived, they greet wooden effigies as if they were lords, they sit on a scorching stone bench, they fail the first night in the Dark House. They are sacrificed and buried at the ballcourt. The head of Jun Junajpu is hung in a calabash tree that had never fruited \u2014 and at once the tree fills with fruit.",
+      "application": "The generation that descends without the knowledge dies in the descent. But nothing is wasted: the severed head becomes seed, and the barren tree fruits. Your unfinished defeat is not the end of the line \u2014 it is what the next one will be conceived from.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 3,
+      "phase": "THE TREE",
+      "title": "The forbidden tree and the spitting skull",
+      "script": "IxK'ik', daughter of the lord Kuchumakik, hears of the wondrous tree and goes to it against the prohibition. She stretches out her hand. The skull of Jun Junajpu spits into her open palm, and she conceives. The skull tells her the face of a father is not lost \u2014 the son carries the father's image forward.",
+      "application": "Transmission happens at the forbidden tree, through the one who reaches anyway. The dead generative principle does not continue through the obedient; it continues through curiosity \u2014 through the hand held out toward the thing you were told not to want. What is in the word is alive. It will spit. You will not leave unchanged.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 4,
+      "phase": "THE TREE",
+      "title": "The owls and the heart of sap",
+      "script": "Her father orders the owls to sacrifice her and carry back her heart in a bowl. In the forest she reasons with them by her wit. She gathers the red sap of the croton tree, which congeals into the shape of a heart. The owls bear the sap-heart back; the Lords burn it as an offering \u2014 and the rising smoke of the sacred resin blinds them. Sightless and entranced, they never see her go; the owls guide IxK'ik' up to the surface of the earth.",
+      "application": "Two faculties carry her out, and we need both. First, curiosity: she reaches the tree at all only because she went toward the forbidden. Then, cunning craft: the death-system demands her authentic heart in its bowl, and she gives it instead a heart fashioned from the sacred tree's own red blood. Note what the craft actually does \u2014 it does not merely satisfy the inspectors. The incense of the offering BLINDS them. At full power, art does more than substitute for the soul under inspection; its sacred smoke takes the sight of the ones who would consume you, and you walk out unseen while they are still breathing it in.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 5,
+      "phase": "PREPARATION",
+      "title": "The older brothers and the tree that grows",
+      "script": "The twins are raised by the grandmother IxMuqane. Their envious elder half-brothers, Jun B'atz' and Jun Chowen \u2014 established masters of flute, song, carving, and writing, the patrons of the arts \u2014 torment them. The twins lead them up a tree after birds; the tree grows tall beneath them and their loincloths become tails. The twins take up flute and drum and play the tune 'Junajpu K'oy' \u2014 Junajpu Spider-Monkey \u2014 calling the brothers down to dance. Four times the grandmother cannot help laughing at the ridiculous creatures, and four times they bolt back up; so they are never returned to human form, fixed in the branches as monkeys.",
+      "application": "In nawal logic, the shape you are turned into discloses what you essentially were. B'atz', the howler, is the nawal of the Artist \u2014 the divine scribe, patron of song, thread, and the carved line. K'oy, the spider monkey, is its restless, grasping, bratty cousin. The elder brothers carried the name and the office of B'atz' and used the Artist's standing to torment the younger creative principle rising beneath them. So the tune the twins play, 'Junajpu K'oy', does not strip their gift \u2014 it calls them down as K'oy and seals them in the branches, by the very laughter of the one who loves them, revealing that the office of B'atz' had been worn over the nature of a brat all along. The skill survives; the dignity is forfeit. This is the exposure every envious artist risks: one true tune is enough to show which monkey was really in the tree.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 6,
+      "phase": "PREPARATION",
+      "title": "The inherited ballcourt and the scout",
+      "script": "The twins discover their fathers' ballgame gear and play on the same road above Xibalba. They too are summoned. But they go equipped: before greeting anyone, they send the mosquito Xan ahead down the road to bite each seated lord.",
+      "application": "You are summoned to the very descent that killed your fathers \u2014 but you inherit, with the summons, their gear and their cautionary tale. The difference between the generation that dies and the one that returns is not courage. It is reconnaissance: send the small one ahead to learn the ground before you commit your body to it.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 7,
+      "phase": "PREPARATION",
+      "title": "The TwinHeads of Maize",
+      "script": "Before they go down, each twin plants an ear of green maize in the center of the grandmother's house. They tell IxMuqane that the corn is the sign of their life: if it dries and withers, they have died in Xibalba; if it sprouts green again, they are alive. She is to tend it, and watch.",
+      "application": "No one descends without a keeper of the sign above. The journey down cannot be witnessed from outside \u2014 but a green shoot in the center of the house can. So before you go, plant the living sign and entrust it to the one who stays: leave something alive that will wither when you die and green again when you return, and leave it with someone who will tend it and read it faithfully. These are the first heads of the story \u2014 twin ears watched over above while, below, a head is about to be lost; and they are the same maize from which, at the very end, humanity itself will be ground and raised.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 8,
+      "phase": "THE ROAD",
+      "title": "The rivers of spikes, blood, and pus",
+      "script": "The twins descend the cliffs and cross the rivers of Xibalba \u2014 a river of churning rapids and spikes, a river of blood, a river of pus \u2014 and they cross without drinking from any of them.",
+      "application": "The road down runs through everyone else's wounding and corruption. You must cross the river of blood without drinking it \u2014 pass through the suffering and the rot of the age without taking it into yourself as your own substance. Traverse; do not ingest.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 9,
+      "phase": "THE ROAD",
+      "title": "The crossroads and the naming of the Lords",
+      "script": "At the four roads \u2014 red, black, white, yellow \u2014 the Black Road speaks, tempting them. But the mosquito's bites have done their work: the wooden effigies set among the lords did not flinch, while the living lords cried out and called each other by name. The twins now know every name, refuse to greet the manikins, and refuse the burning stone bench offered as a seat of honor.",
+      "application": "This is the central competence of our age: to name the true powers hidden among the false faces. The systems of death dress effigies as authorities and offer you the hot seat as if it were an honor. Send something small to bite them all, and you will learn which ones are merely wood and what the living ones are actually called. You cannot outwit a power whose true name you do not know.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 10,
+      "phase": "THE HOUSES",
+      "title": "Dark House",
+      "script": "Shut in total darkness, they are given a lit torch and two cigars and told to return them at dawn unburned and still alight. They fix a macaw's red tail to the torch so it seems to flame, and set fireflies at the tips of the cigars. At dawn all is returned, apparently consumed, in truth intact.",
+      "application": "The auditors demand proof that you burned yourself all night for them. You give them the convincing appearance of consumption \u2014 the red feather, the firefly \u2014 and you keep the actual flame. Not every demand for your light deserves your light. Sometimes fidelity to the soul looks, from the outside, exactly like compliance.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 11,
+      "phase": "THE HOUSES",
+      "title": "Razor House",
+      "script": "The house is full of blades that move and cut of their own accord. The twins speak to the knives, promising them the flesh of animals instead. The blades grow still.",
+      "application": "The cutting things \u2014 the inner blade that turns on you, the machinery built to lacerate \u2014 are not defeated by struggling against them; struggle is what they feed on. They are addressed. Given other meat. Spoken to until they still. The knife wants flesh; it does not have to be yours.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 12,
+      "phase": "THE HOUSES",
+      "title": "Cold House",
+      "script": "Inside is shrieking cold, drafts, and falling hail. The twins keep themselves from freezing through the night and are unharmed.",
+      "application": "The age offers a specific death: the slow freeze \u2014 numbness, the cooling of feeling into indifference. You survive the Cold House not by escaping the cold but by refusing to let it reach the core. Tend the inner fire while the hail falls.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 13,
+      "phase": "THE HOUSES",
+      "title": "Jaguar House",
+      "script": "The house is crowded with jaguars. The twins scatter bones for the jaguars to gnaw, and the beasts fall upon the bones instead of upon them.",
+      "application": "The devouring appetites \u2014 yours and the world's \u2014 will eat something tonight. The art is to feed them bones, not your heart. Give the predators a real meal that is not your living center, and you will still be whole at dawn.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 14,
+      "phase": "THE HOUSES",
+      "title": "Fire House",
+      "script": "The house holds only roaring fire. The twins are not burned; they pass the night in the flames and emerge unconsumed.",
+      "application": "There is a fire you cannot trick and cannot feed off \u2014 you can only stand in it consciously until dawn. The refiner's fire, borne on purpose, does not consume the one who has stopped fighting it. Endurance, here, is the whole of the cunning.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 15,
+      "phase": "THE HOUSES",
+      "title": "Bat House \u2014 and the lost head",
+      "script": "Killer bats \u2014 Kamasotz' \u2014 fill the house. The twins sleep sealed inside their own blowguns. Near dawn Junajpu lifts his head out to see whether the light has come. Kamasotz' shears it off in an instant. The Lords hang Junajpu's head over the ballcourt as their trophy.",
+      "application": "Here is the loss no strategy prevents. After five houses survived by wit, the prepared one reaches for the light a moment too early \u2014 and it costs him his head. The descent is not a series of clever escapes with no price. There is a real severing. You will lose something essential, and it will be displayed by the very powers you came to face. This is not failure. It is the cost the door always charges.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 16,
+      "phase": "RECOVERY",
+      "title": "The animals and the carved squash",
+      "script": "Ixb'alamkej summons all the animals to bring their foods. The coati brings a squash. From it Ixb'alamkej carves a false head in Junajpu's likeness, eyes and features and all, while a rabbit is readied to play its part.",
+      "application": "What was severed is not restored by the hero alone. It takes the whole council of small creatures, each bringing what it has, and a made thing \u2014 a carved substitute \u2014 to stand in until the real is recovered. You get your head back through community and craft, never by yourself, and a fashioned image holds the place of the true until the true returns.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 17,
+      "phase": "RECOVERY",
+      "title": "The ballgame and the bounding rabbit",
+      "script": "The Lords insist on playing, using Junajpu's real head as the ball. By design the rabbit bursts out, bounding like the ball; the Lords chase it into the distance. In that interval the twins recover Junajpu's true head, restore it, and set the carved squash in play as the ball. Struck hard, the squash bursts open, seeds scattering \u2014 and the twins win the game.",
+      "application": "Play is the arena of resurrection. The system stages the game to display your defeat \u2014 your own severed head as its plaything \u2014 and play is exactly where you turn it. A small diversion buys the instant of restoration; the substitute takes the killing blow and bursts into seed; and you win the very contest that was meant to be your humiliation.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 18,
+      "phase": "THE OVEN",
+      "title": "The leap into the fire",
+      "script": "The Lords build a great earth-oven and light it. Knowing they are meant to die there whatever they do, the twins do not wait to be thrown. Hand in hand, they leap into the oven together, and they die.",
+      "application": "Foreknowledge changes everything about a death. When you can see that the system has built the oven for you regardless, the one freedom left is to leap \u2014 to make of your execution an offering, entered on your own terms, hand in hand. The same fire is either a murder or a sacrifice depending entirely on who chooses the step.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 19,
+      "phase": "THE OVEN",
+      "title": "The grinding and the sowing in the river",
+      "script": "The Lords grind the twins' bones on a grindstone, as maize is ground, and sow the powder into the river \u2014 having been advised to do exactly this by the seers Xulu and Pakam, whom the twins had secretly instructed beforehand.",
+      "application": "The death-mill and the maize-mill are the same stone. To be ground to powder and scattered in water looks like final annihilation \u2014 and it is, in truth, sowing. The grinding the Lords intend as erasure is the very grinding that prepares return; and the wisest move was made days earlier, instructing the disposal of your own remains. What is milled and given to the water is not destroyed. It is planted.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 20,
+      "phase": "THE RETURN",
+      "title": "Fish-men, then two ragged dancers",
+      "script": "On the fifth day the twins reappear in the water, first as fish-like beings, then the day after as two poor wandering performers, dressed in rags.",
+      "application": "Resurrection arrives disguised and lowly. The transformed do not come back as kings announcing themselves; they come back as anonymous vagabonds with an act. The soul returns in costume, through the side door, carrying nothing but a performance \u2014 and that is precisely why it is not recognized in time to be stopped.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 21,
+      "phase": "THE RETURN",
+      "title": "The dance of death and revival",
+      "script": "The two dancers perform wonders: the animal dances, the burning of a house and its restoration, and above all the sacrifice and revival of one another \u2014 Ixb'alamkej dismembers Junajpu and calls him whole again. Word of these marvels spreads through Xibalba.",
+      "application": "Art is the public performance of death made reversible. By dancing the dying and the rising, the returned ones demonstrate mastery over the single commodity the Lords trade in. You announce your transformation not by argument but by enacting, in plain sight, the thing the death-powers believed only they controlled.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 22,
+      "phase": "THE REVERSAL",
+      "title": "The Lords ask to be sacrificed",
+      "script": "Delighted, Jun Kame and Wuqub Kame demand the dance be performed upon them: sacrifice us, they say, and bring us back. The twins sacrifice Jun Kame \u2014 and do not revive him. They take Wuqub Kame, now begging \u2014 and do not revive him either. The chief Lords of Death are undone by their own craving to be sacrificed.",
+      "application": "The death-system's fatal flaw is its appetite. Show it the spectacle of its own transcendence and it will demand to consume that too \u2014 it will ask to be sacrificed and restored, hungry even for resurrection. The one act it cannot survive is being taken exactly at its word. You do not overthrow it by force. You give its craving precisely what it asked for, and you withhold the revival.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 23,
+      "phase": "THE REVERSAL",
+      "title": "The bounding of Xibalba",
+      "script": "The remaining lords lose heart, surrender, and plead. Their domain is not abolished but reduced: henceforth Xibalba may receive only the cracked, the guilty, the spilled croton-sap of offerings \u2014 no longer the bright and whole.",
+      "application": "Death is not destroyed; it is bounded. After the descent, its totalizing claim over life is broken. It keeps a real but limited domain \u2014 what was already broken comes to it \u2014 and it can no longer take everything simply because it is hungry. The victory is not immortality. It is the setting of a fence around the dark.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 24,
+      "phase": "THE RISING",
+      "title": "Sun, moon, and the four hundred stars",
+      "script": "The twins honor their fathers in the ballcourt, then rise out of Xibalba into the sky. One becomes the sun, the other the moon. The four hundred boys, killed long before, become the host of stars.",
+      "application": "The descent completes as orientation. The transformed do not merely survive \u2014 they become the lights by which everyone else now tells time and finds the way. Soul-making finishes as cosmos-making: having gone all the way down and returned, you become someone's daylight, and the companions lost along the road become the field of stars others steer by.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 25,
+      "phase": "THE MAIZE",
+      "title": "Humanity, ground from maize",
+      "script": "In the age that follows, the grandmother IxMuqane grinds white and yellow maize and from that dough the first true human beings are formed.",
+      "application": "The grinding returns, at the last, as genesis. The same mill that was death in Xibalba is the mill that makes us. This is why the Popol Wuj is not a story about other people in another time: humanity is its final product. We are, every one of us, the meal of that stone \u2014 made of what was milled and sown and raised into light.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    }
+  ]
+}

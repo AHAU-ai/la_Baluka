@@ -1,0 +1,27 @@
+{
+  "name": "ahau-canon",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sealed, load-bearing Popol Wuj canon corpus (descent + Wuqub Kak'ix) with a two-witness CI integrity gate. Each arc is independently self-sealing; none may be rewritten \u2014 only entered, applied, and deliberately re-sealed after lineage review.",
+  "scripts": {
+    "verify:canon": "npx tsx scripts/verify-canon.ts",
+    "verify:publication": "node scripts/verify-publication.mjs",
+    "preflight": "node scripts/preflight.mjs",
+    "build:manifest": "node scripts/build-manifest.mjs",
+    "publish:canon": "node scripts/publish.mjs",
+    "sign:canon": "node scripts/sign-publication.mjs",
+    "typecheck": "tsc --noEmit",
+    "verify:gate": "npm run verify:canon && npm run verify:publication",
+    "verify:all": "npm run preflight ; npm run canary && npm run verify:canon && npm run verify:publication && npm run typecheck",
+    "prebuild": "npm run verify:gate",
+    "hold": "node scripts/hold.mjs",
+    "retract": "node scripts/retract.mjs",
+    "canary": "node scripts/canary.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
