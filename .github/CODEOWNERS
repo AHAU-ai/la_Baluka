@@ -1,45 +1,12 @@
-# ─────────────────────────────────────────────────────────────────────────
-#  Repository: github.com/AHAU-ai/la_Baluka
-#  Lineage accountability gate (the HUMAN half of canon integrity).
-#
-#  The two machine witnesses catch accidental drift and tampering-without-reseal.
-#  They CANNOT catch an authorized-looking rewrite (text + both seals re-minted
-#  in one commit) — the seals certify internal consistency, not authority. Only a
-#  person can certify faithfulness. So every file that could alter the canon, its
-#  seals, the verifying code, or the gate itself requires review by the K'iche'
-#  lineage holder before it can merge.
-#
-#  Pair with branch protection: "Require review from Code Owners".
-#  REPLACE the placeholders with real GitHub handles / team.
-#  Dr. Vincent James Stanzione is the lineage accountability holder.
-# ─────────────────────────────────────────────────────────────────────────
-
-# The canon: faithful script + transcendental application + the in-file seal.
-/popol-wuj-the-descent.ts       @AHAU-AI
-/popol-wuj-wuqub-kakix.ts       @AHAU-AI
-/popol-wuj-making-of-humans.ts  @AHAU-AI
-
-# The external integrity record (aggregate seal + per-beat manifest).
-/canon.seal                      @AHAU-AI
-
-# The verifying + re-sealing code. Tampering here is how a witness gets defeated.
-/scripts/                        @AHAU-AI
-
-# The gate's own configuration must not be weakened without review.
-/.github/                        @AHAU-ai
-
-# Publication-integrity artifacts (append-only ledger, external seal, signing key).
-/canon.seal                      @AHAU-AI
-/canon.ledger.json               @AHAU-AI
-/canon.pubkey                    @AHAU-AI
-/canon.sig                       @AHAU-AI
-/SHA256SUMS                      @AHAU-AI
-/dist/                           @AHAU-AI
-
-# Blue-team additions — data, the one code surface, and the publication artifacts.
-/canon/                          @AHAU-AI
-/lib/                            @AHAU-AI
-/canon.manifest.json             @AHAU-AI
-/canon.pubkeys.json              @AHAU-AI
-/canon.sigs/                     @AHAU-AI
-/CERTIFIES.md                    @AHAU-AI
+* @AHAU-ai
+/canon/ @AHAU-ai
+/lib/ @AHAU-ai
+/scripts/ @AHAU-ai
+/.github/ @AHAU-ai
+/canon.seal @AHAU-ai
+/canon.manifest.json @AHAU-ai
+/canon.ledger.json @AHAU-ai
+/SHA256SUMS @AHAU-ai
+/dist/ @AHAU-ai
+/canon.baseline.json @AHAU-ai
+/CERTIFIES.md @AHAU-ai
