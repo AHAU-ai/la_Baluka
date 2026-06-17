@@ -1,0 +1,287 @@
+{
+  "provenance": {
+    "corpusVersion": "popol-wuj-wuqub-kakix/1.0.0",
+    "contractVersion": "katok-pa-tzij/2.0.0",
+    "field": "K'iche'",
+    "sealAlgo": "sha256",
+    "sealedAt": "2026-06-13",
+    "governance": {
+      "status": "review",
+      "attestation": {
+        "attestor": {
+          "name": "PENDING: named K'iche' attestor",
+          "role": "PENDING"
+        },
+        "basis": "K'iche' Maya ceremonial lineage",
+        "scope": "faithfulness of the transmission (script) layer to the Popol Wuj",
+        "date": "PENDING"
+      },
+      "lineageReview": {
+        "reviewer": {
+          "name": "Dr. Vincent James Stanzione",
+          "role": "lineage accountability holder"
+        },
+        "status": "complete",
+        "date": "2026"
+      },
+      "cooperativeLink": "https://labaluka.net"
+    }
+  },
+  "beats": [
+    {
+      "n": 1,
+      "phase": "THE FALSE LIGHT",
+      "title": "The self-magnifier",
+      "script": "In the dim time before the true sun and moon had risen, a great plumed being, Wuqub Kak'ix, exalts himself. His eyes shine like polished metal, his teeth are gleaming jewels, his face is bright with the light of gemstones. He proclaims himself to be both the sun and the moon, the light and the path of all the people.",
+      "application": "Before the true light has come, the loudest claimant rushes to fill the empty seat. The age of dim half-light always produces a being who declares himself the sun \u2014 radiant only by reflection, jeweled, magnified \u2014 and demands to be taken as the light and the way. Vainglory is not a true light; it is borrowed glitter mistaken for the dawn.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 2,
+      "phase": "THE FALSE LIGHT",
+      "title": "The offense to the Heart of Sky",
+      "script": "His claim is false: he is not the sun, his glow neither ripens the maize nor orders the days. The Heart of Sky is not pleased that a vain pretender has set himself up in the sky before the real dawn. The twin boys Junajpu and Ixb'alamkej resolve to bring him down.",
+      "application": "The test of a light is whether things grow by it. False radiance ripens nothing and orders nothing; it only dazzles. What heaven will not abide is not brightness but the counterfeit that occupies the place of the true and so keeps the real dawn from breaking.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 3,
+      "phase": "THE SHOOTING",
+      "title": "The nance tree",
+      "script": "Each day Wuqub Kak'ix climbs his great nance tree to eat its yellow fruit. The twins watch and learn his habit, and lie in wait beneath the leaves with the blowgun.",
+      "application": "Even the self-declared sun must come down to eat. Every false greatness has a tree it returns to, a hunger that fixes its routine and exposes it. Patience and close attention find the hour that pride cannot skip.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 4,
+      "phase": "THE SHOOTING",
+      "title": "The blowgun strikes the jaw",
+      "script": "Junajpu fires; the pellet strikes Wuqub Kak'ix square in the jaw. He crashes down from the tree, his gleaming mouth ruined and howling \u2014 but he is not killed.",
+      "application": "The first true blow lands on the mouth \u2014 on the boastful jaw, the organ of the false proclamation. But unmasking is not undoing; wounded vanity grows more dangerous, not less. The bright teeth are broken; the being itself is not yet brought down.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 5,
+      "phase": "THE SHOOTING",
+      "title": "The torn-off arm",
+      "script": "Junajpu lunges to seize him, but Wuqub Kak'ix grips the boy's arm and wrenches it from his body. He carries the arm home and hangs it over his hearth-fire to smoke, swearing the boys will pay.",
+      "application": "Confront false power too directly, too soon, and it tears a piece of you away. It will hang what it took over its fire as trophy and warning. The wound is real; the arm is gone. From here the work must become cunning, not force.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 6,
+      "phase": "THE HEALERS",
+      "title": "The two white elders",
+      "script": "The twins go to two wise old ones \u2014 Saqi Nim Aq and Saqi Nima Tz'iis, white-haired grandparents \u2014 and ask their help. The boys will travel as their grandchildren, and the elders will present themselves as humble healers who cure the eyes and teeth.",
+      "application": "Force having failed and cost an arm, the twins borrow age and humility. They return not as warriors but as the grandchildren of unassuming healers. Disguise as the lowly is the road back in: power will open its mouth to a humble doctor that it would never open to a rival.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 7,
+      "phase": "THE HEALERS",
+      "title": "The summons of the vain",
+      "script": "Wuqub Kak'ix lies in agony \u2014 his jaw throbs, his jewel-teeth are cracked, his eyes ache. Hearing of healers who mend teeth and eyes, he summons them at once, desperate to have his ruined radiance restored.",
+      "application": "The false sun's undoing begins in his own craving to be beautiful again. Vanity wounded will invite the very hands that will finish it, so long as they promise to bring back the shine.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 8,
+      "phase": "THE HEALERS",
+      "title": "Jewels traded for maize",
+      "script": "The healers tell him the only cure is to draw the broken teeth and set new ones. They pull out his gemstone teeth and replace them with teeth of white maize; they strip the shining metal and jewels from around his eyes. As the glitter leaves him, so does his greatness.",
+      "application": "This is the dismantling substitution \u2014 the mirror image of IxK'ik's resin heart. There, craft set a made thing in the place of the true to PRESERVE a life; here, craft sets humble maize in the place of jewels to STRIP a falsehood. The same nawal art of replacement unmakes counterfeit radiance: trade the gemstone for the grain, and the false sun simply goes out. What looked like glory was only the jewels; take them away and nothing divine remains.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 9,
+      "phase": "THE HEALERS",
+      "title": "The going-out, and the arm restored",
+      "script": "Stripped of his shining teeth and jeweled eyes, Wuqub Kak'ix loses his brilliance and his power, and he dies. The twins take Junajpu's arm down from the hearth and set it back in place, and he is whole again.",
+      "application": "Counterfeit light need not be slain in battle; it need only be un-adorned. Once the borrowed glitter is gone, it expires of its own emptiness. And what the false power tore from you is recoverable \u2014 the arm comes back off the fire and is made whole \u2014 once the falsehood that seized it is gone.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 10,
+      "phase": "THE ELDER SON",
+      "title": "Sipakna, who claims to make the mountains",
+      "script": "Wuqub Kak'ix's elder son, Sipakna, boasts that he himself makes the mountains, raising them up in a single night. He is vast, strong, and proud.",
+      "application": "False greatness breeds heirs. The pride of the false sun passes to a son who claims to make the very mountains \u2014 to be the author of the unmovable. Self-magnification, left standing, begets the claim to have founded the world itself.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 11,
+      "phase": "THE ELDER SON",
+      "title": "The Four Hundred Boys become Motz",
+      "script": "The Four Hundred Boys (Omuch' K'ajolab') try to bring Sipakna down: they have him help drag a great log, then dig a deep pit to bury him. He outwits them, hides in a side-tunnel, and when they drink to celebrate his supposed death, he topples their house upon them. The four hundred die \u2014 and rise into the sky as Motz, the handful of stars.",
+      "application": "The strongman lets the many dig the very pit meant for him, then buries them under their own roof while they toast his fall. But the four hundred are not erased: the crushed community rises as Motz, the fistful of stars by which planters still read the seasons. Those the strongman destroys become the guide-lights overhead \u2014 the same field of stars the risen ones of the descent will one day join.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 12,
+      "phase": "THE ELDER SON",
+      "title": "The false crab, and Sipakna turned to stone",
+      "script": "The twins bring Sipakna down by his appetite. They fashion a lifelike crab from carved stone and bromeliad flowers and set it deep in a canyon beneath the mountain Meawan. Famished, Sipakna crawls in after it; the mountain comes down upon him and he is turned to stone.",
+      "application": "The maker of mountains is undone by a made thing and his own hunger \u2014 lured by a crafted bait beneath the very mountain he claimed to raise, and fixed there as stone. The one who called himself the author of the unmovable becomes a piece of it. Pride that names itself the foundation ends as inert rock.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 13,
+      "phase": "THE YOUNGER SON",
+      "title": "Kab'rakan, who throws the mountains down",
+      "script": "The other son, Kab'rakan, boasts the opposite power: he topples the mountains, shaking the earth and unmaking whatever stands.",
+      "application": "The other face of false greatness is not building but breaking \u2014 the boast of the one who can bring anything down, who mistakes destruction for power. Where the brother claimed to found the world, this one claims the right to shake it apart.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 14,
+      "phase": "THE YOUNGER SON",
+      "title": "The earth-rubbed bird",
+      "script": "The twins meet him, praise a distant great mountain to provoke his pride, and offer him a roasted bird \u2014 but they have rubbed it with white earth. As he eats, his strength drains away; the earth in the bird unmakes his might. Weakened, he is bound and buried, and the shaking of the mountains is stilled.",
+      "application": "The breaker is fed the very earth he scorned, and it hollows out his strength from within. Offer arrogant force a feast seasoned with the humble ground it despised, and its power quietly leaves it. The earth itself takes back the one who claimed dominion over it.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    },
+    {
+      "n": 15,
+      "phase": "THE GROUND CLEARED",
+      "title": "Before the dawn",
+      "script": "With Wuqub Kak'ix and his two sons brought down, the false lights and the false foundations are cleared away. The world is made ready for the true sun, and for the people of maize who will one day rise to greet it.",
+      "application": "All of this \u2014 the false sun unmade, the false mountains stilled \u2014 is preparation. The counterfeit must be cleared before the true dawn can be borne, for an age cannot receive its real light while a pretender still sits in the sun's seat. The un-making of the false is not the story's end but the clearing in which a true beginning becomes possible.",
+      "trust": {
+        "script": "transmission",
+        "application": "interpretation"
+      },
+      "provenance": {
+        "source": "paraphrase of published Popol Wuj translations (Christenson; Tedlock)",
+        "mode": "ai-assisted-draft",
+        "lineageConfirmed": false,
+        "confidence": "unconfirmed"
+      }
+    }
+  ]
+}

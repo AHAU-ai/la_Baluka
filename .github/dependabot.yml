@@ -1,0 +1,14 @@
+# Keeps the GitHub Actions used by the canon gate current. Pair with SHA-pinning:
+# pin each action to a commit SHA in the workflow, and Dependabot will open PRs
+# bumping the SHA (and its comment) as new releases land — those PRs themselves
+# pass through the same protected merge gate.
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    labels:
+      - "ci"
+      - "supply-chain"

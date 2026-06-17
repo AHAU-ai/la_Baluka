@@ -1,0 +1,33 @@
+name: canon-integrity
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+permissions:
+  contents: read
+jobs:
+  red-team-the-word:
+    name: Red-team the Word
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # TODO M-2: pin to a VERIFIED commit SHA (Dependabot configured); tag is mutable
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4 # TODO M-2: pin to a VERIFIED commit SHA
+        with:
+          node-version: '20'
+      - name: Install (locked)
+        run: npm ci || npm install --no-audit --no-fund
+      - name: Zero-trust coreutils cross-check (independent of the JS toolchain)
+        run: sha256sum -c SHA256SUMS
+      - name: Content witness (canon read as JSON, no canon code executed)
+        run: npm run verify:canon
+      - name: Publication layer (ledger chain + manifest + threshold signature)
+        run: npm run verify:publication
+      - name: Release preflight (CODEOWNERS + branch protection)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: npm run preflight
+      - name: Types
+        run: npm run typecheck

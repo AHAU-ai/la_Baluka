@@ -1,0 +1,26 @@
+{
+  "spec": "la-baluka/manifest/1.0.0",
+  "generatedAt": "2026-06-16T00:26:51.828Z",
+  "corpusRoot": "0380da9139313889654584f2d5d4ed39d13c7ad2577af0724e1a1f01e1054b32",
+  "files": {
+    "lib/canon-core.ts": "2beba52964630d9e013cc9f9162d0a494862cd7ed1fbbbe60b64e64ffbf1fab5",
+    "scripts/verify-canon.ts": "a3a9508a029c05799262a93e7e34db4579201c8756bdd80d70d3b885bf76c2b2",
+    "scripts/verify-publication.mjs": "133dd790d35143402d020b28854d19f2c5e1c30faa9e8f5282c5f650f559bdfc",
+    "scripts/publish.mjs": "f02c2598fa443732066217fadc40cefda5b0ad5f0ca05d13b9f34116fe081a8c",
+    "scripts/preflight.mjs": "c61afd665f0502aa3863ee17714cc181fbe9e0260514213717aafa4ae4644d4d",
+    "scripts/build-manifest.mjs": "e1a3e499ed7142a2f1b39c89d20348fc844aaa713e2468f7efd8188fdde9c1ec",
+    "canon.seal": "92a8d195c637c608d5aad4cb54961e9643c35ee7d7f029e5ce100e49d96ed0bb",
+    "CERTIFIES.md": "627bf651d2e2abdaa75bbe07ccec5fb957d65953bca5293a427ffc2cdb740bf7",
+    ".github/CODEOWNERS": "ba1635430e38cf1d3f21341170884a632686fefb4819572b1c19b1e20e792238",
+    ".github/workflows/canon-integrity.yml": "9246c08637884a14ea117a80ca121c2da67fc88b9dc55da5cff94c7f96126d1d",
+    "integrations/canon-gate.mjs": "44f60d0d664b5dad1ba2bea7b85fde58dfd01289f55811c2ef8c4cefc2aa262e",
+    "package.json": "c7a0837c8cf5e92a669b65bc225fbe19c6b917630081726d9e88c2259228e23d",
+    "scripts/hold.mjs": "8a85a76b1adbf3c4a92cc02aadfac4a3632c44799e13036b509e155b16be9dbb",
+    "scripts/retract.mjs": "61ce5f3428b606126cbd9ba0f81ffbb75e9b6089ef1265e9899c9aad0c56cf05",
+    "scripts/canary.mjs": "c05940368a3062de3a2dccaf7b225cf72b7085fad524ceb47e91696a03a2e83b",
+    "canon.baseline.json": "763f6ca7ad9d484a190fc10ede848e7d1a9874c73ea5d4dcae40c94910697d54",
+    "DISPUTES.md": "d8528422e751dfa92dbacbd22492fdbbd1ff8bbf0290e2133e385ed04a0b2108",
+    "RUNBOOK.md": "5c9647c079f855bbb4afd8d7465e8a35f9491b2fa5394b4d23d7a4b37cd8b52b"
+  },
+  "manifestDigest": "2b95e337aee8e8bee0965cb6713f383659fc2285059b9e4eeec7da8ab39098f9"
+}
