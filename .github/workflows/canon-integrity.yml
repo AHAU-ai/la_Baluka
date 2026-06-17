@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4 # TODO M-2: pin to a VERIFIED commit SHA (Dependabot configured); tag is mutable
         with:
           persist-credentials: false
-      - uses: actions/setup-node@v4 # TODO M-2: pin to a VERIFIED commit SHA
+      - uses: actions/setup-node@v6 # TODO M-2: pin to a VERIFIED commit SHA
         with:
           node-version: '20'
       - name: Install (locked)
