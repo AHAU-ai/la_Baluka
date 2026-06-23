@@ -10,7 +10,7 @@ jobs:
     name: Red-team the Word
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4 # TODO M-2: pin to a VERIFIED commit SHA (Dependabot configured); tag is mutable
+      - uses: actions/checkout@v7 # TODO M-2: pin to a VERIFIED commit SHA (Dependabot configured); tag is mutable
         with:
           persist-credentials: false
       - uses: actions/setup-node@v4 # TODO M-2: pin to a VERIFIED commit SHA
