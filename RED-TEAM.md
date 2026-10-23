@@ -1,4 +1,4 @@
-# Red-Team Report — La Baluka Canon Corpus
+# Red-Team Report — En Baluka Canon Corpus
 
 An adversarial review of the whole system, start to finish: the canon arc files,
 the seal and verification machinery, the publication layer, the CI/governance,

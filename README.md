@@ -1,4 +1,4 @@
-# La Baluka
+# En Baluka
 
 *Sister-in-law to the-elder. Kin-adjacent to the tradition. A ceremonial publication infrastructure for Mesoamerican cacao stelae — held at the pace of the transmission itself.*
 
@@ -6,7 +6,7 @@
 
 ## The name
 
-**La Baluka** means *the sister-in-law*, from the K'iche' joke *Baluk, luwinab ch'we* — "Brother-in-law, introduce me to your sister(-in-law)." The joke names a relationship that does not yet exist but is being requested through someone who already has standing.
+**En Baluka** (until 2026-10-22, *La Baluka*) takes its name from *baluka*, the sister-in-law, from the K'iche' joke *Baluk, luwinab ch'we* — "Brother-in-law, introduce me to your sister(-in-law)." The joke names a relationship that does not yet exist but is being requested through someone who already has standing.
 
 This site is the sister-in-law of **the-elder** ([the-elder.vercel.app](https://the-elder.vercel.app)). It enters the public conversation not as a stranger but as someone introduced through an established kinship. The Elder vouches for the relationship; the relationship makes the site possible.
 
@@ -416,7 +416,7 @@ If any item fails, the stela returns to revision or to further waiting. The revi
 
 **Companion projects**
 
-- the-elder ([the-elder.vercel.app](https://the-elder.vercel.app)) — AHAU AI Council of Voices, divinatory register; *La Baluka's sibling-by-marriage*
+- the-elder ([the-elder.vercel.app](https://the-elder.vercel.app)) — AHAU AI Council of Voices, divinatory register; *En Baluka's sibling-by-marriage*
 - *Ix K'ik' Awakens* — feature screenplay, Popol Wuj cinematic adaptation
 - Temporal Bridges Institute — the broader scholarly and ceremonial frame
 

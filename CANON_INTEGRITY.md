@@ -144,7 +144,7 @@ rejects them.
 
 ---
 
-## La Baluka integration (build gate + publication governance)
+## En Baluka integration (build gate + publication governance)
 
 This corpus is wired into **github.com/AHAU-ai/la_Baluka** (Astro), not The Elder.
 
@@ -172,7 +172,7 @@ Each arc's `PROVENANCE.governance` carries `status` (`draft` | `review` |
 `cooperativeLink`. **These fields are bound into the seal**, so none can change
 silently. The publication gate (in `verify-canon.ts`, and so in the build gate)
 enforces: an arc may be **`live` only if all three are present and concrete** —
-no `PENDING`/`FILL`/`REPLACE` placeholders. This is La Baluka's rule that no
+no `PENDING`/`FILL`/`REPLACE` placeholders. This is En Baluka's rule that no
 stela goes live without K'iche' author attestation, lineage review, and a
 cooperative link.
 
